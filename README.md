@@ -7,3 +7,5 @@ proces produkcyjny (Urywamy detal co sztukę a program wykonuje się dalej z cor
 
 Można zaimplementować także odcinanie do chwytaka co ogranicza pracę operatora maszyny CNC do włożenia pręta w uchwyt, uruchomienie programu na 6 sztuk,
 i odbiór detali z kieszeni chwytaka.
+
+Autor: Piotr Kupczyk (peter.kupczykk@gmail.com)
